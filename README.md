@@ -1,2 +1,2 @@
 # Cactus
-Stuff related to the Cactus toolkit
+Stuff related to the [Cactus toolkit](http://cactuscode.org/)
